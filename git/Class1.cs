@@ -8,5 +8,9 @@ namespace git
 {
     internal class Class1
     {
+       static void Main()
+        {
+            Console.WriteLine("s;dfjg");
+        }
     }
 }
